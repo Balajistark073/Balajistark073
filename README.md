@@ -4,12 +4,12 @@
 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Balajistark073.Balajistark073">
 
+
 <h1 align="center">
-  <img src = "![Screenshot 2024-07-22 at 9 00 14 PM](https://github.com/user-attachments/assets/1454fb7d-a05c-4691-bef8-a495fe2549d7)"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+BALAJI M K..;Nice+to+meet+you!&center=true&size=30">
-  </a>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Balaji" alt="Typing SVG" /></a>
 </h1>
+
 
 <h5 align="center">
   <code><a href="[linkedin.com/in/balaji-murugan-1604b6209](https://www.linkedin.com/in/balaji-murugan-1604b6209/)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
