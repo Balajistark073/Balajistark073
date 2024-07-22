@@ -1,7 +1,7 @@
 ![Banner](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-
-![Screenshot 2024-07-22 at 9 00 14 PM](https://github.com/user-attachments/assets/15c8ef6a-d3f1-441f-9602-96cac2709111)
-
+<h1 align = "center">
+<img src = "images/balaji.png" width = 40%>
+</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Balajistark073.Balajistark073">
 
 <h1 align="center">
@@ -27,7 +27,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: aameerk917@gmail.com">aameerk917@gmail.com</a>
+  📫 How to reach me: <a href="mailto: mkbsbalaji@gmail.com">mkbsbalaji@gmail.com</a>
 </p>
 
 <hr>
@@ -64,7 +64,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aameerk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balajistark073&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
