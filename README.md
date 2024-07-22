@@ -1,7 +1,9 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aameerk.aameerk">
+![Banner](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Balajistark073.Balajistark073">
 
 <h1 align="center">
+  <img src = "![Screenshot 2024-07-22 at 9 00 14 PM](https://github.com/user-attachments/assets/1454fb7d-a05c-4691-bef8-a495fe2549d7)"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+BALAJI M K..;Nice+to+meet+you!&center=true&size=30">
   </a>
