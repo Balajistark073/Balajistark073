@@ -1,7 +1,7 @@
-![Banner](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align = "center">
-<img src = "images/balaji.png" width = 40%>
-</h1>
+
+![gif2](https://github.com/user-attachments/assets/0e90f623-61d6-49a1-bf9e-8868d85d0215)
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Balajistark073.Balajistark073">
 
 
@@ -13,7 +13,7 @@
 
 <h5 align="center">
   <code><a href="[linkedin.com/in/balaji-murugan-1604b6209](https://www.linkedin.com/in/balaji-murugan-1604b6209/)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="[https://https://www.hackerrank.com/profile/aameerk09](https://github.com/Balajistark073)" title="Github Profile"><img width="22" > Github</a></code>
+  <code><a href="[https://github.com/Balajistark073](https://github.com/Balajistark073)" title="Github Profile"><img width="22" src="images/github.svg > Github</a></code>
 </h5>
 <br>
 <p align="center">
